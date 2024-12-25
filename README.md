@@ -11,6 +11,6 @@ The application is built with a graphical user interface (GUI) using Python's `t
 ### Requirements:
 - **MySQL**: Ensure MySQL is installed and configured.
 - **Python Libraries**: 
-  - For GUI: tkinter (including ttk and `messagebox` modules).
+  - For GUI: tkinter (including `ttk` and `messagebox` modules).
   - For Database: `mysql.connector` and `datetime`.
 
