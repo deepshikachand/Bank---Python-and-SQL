@@ -1,0 +1,16 @@
+# Requirements
+
+Software
+Python: Version 3.x (Make sure Python is installed on your system.)
+MySQL: Ensure MySQL Server and MySQL Workbench are installed and configured. 
+
+Python Libraries
+The following Python libraries are required for the project. Use pip install <library> to install them:
+
+tkinter (for the graphical user interface, included by default in Python installations)
+ttk (Treeview widget for tables)
+messagebox (for alerts and messages)
+mysql-connector-python (for MySQL database connection)
+datetime (for handling dates, included by default in Python)
+MySQL Database
+A MySQL database named bank with tables created by the application.
